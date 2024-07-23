@@ -1,0 +1,126 @@
+CICLO FORMATIVO DE GRADO SUPERIOR - TÉCNICO EN 
+ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED 
+
+FUNDAMENTOS DE HARDWARE 
+
+USB BOOTEABLE 
+
+En esta práctica vamos a crear una unidad de USB arrancable o booteable. 
+Para ello, sigue la guía y adjunta capturas de pantalla del proceso. Finalmente, responde 
+unas cuestiones relacionadas con la realización de la misma. 
+
+¿Para qué sirve una unidad de USB booteable? Una unidad booteable permite iniciar o 
+arrancar un sistema operativo u otros programas desde el propio dispositivo, por ejemplo, 
+USB. Esto nos permite disponer del sistema operativo o programa de manera portátil y 
+poder ejecutarlo en cualquier ordenador. 
+
+¿Cómo crear una unidad de USB booteable? 
+Realiza los siguientes pasos: 
+
+1. Ten a mano una unidad USB con capacidad suficiente para poder incluir los 
+archivos del sistema operativo o programa que posteriormente vas a instalar. Para 
+el caso de la imagen ISO de Windows 10 Pro o de Ubuntu, 10GB de capacidad 
+mínima será más que suficiente. 
+
+2. Formatea la unidad USB. 
+- Inserta el dispositivo USB. 
+- Accede a Este equipo - Dispositivos y unidades
+- Con el botón derecho, haz click en la unidad extraíble y selecciona “Formatear” 
+
+- Configuramos el formateo: 
+o Sistemas de archivos: Elegimos la opción que más nos conviene. 
+§ FAT32 (predeterminado): Es compatible con Windows, macOS y Linux. El 
+inconveniente es que no permite guardar archivos mayores de 4GB.  
+§ NTFS: Sistema de archivos predeterminado para Windows. Permite archivos 
+grandes, pero su compatibilidad es limitada con otros sistemas.
+§ extFAT: Si queremos que el USB tenga un formato compatible con sistemas macOS, 
+Windows y Linux y, además, que admita archivos grandes. El inconveniente es que 
+no es tan avanzado como NTFS en cuanto a seguridad. 
+o Tamaño de la unidad de asignación: Dejamos la selección predeterminada. 
+o Etiqueta del volumen: A elección propia. 
+Podemos mantener el nombre del volumen por defecto (por ejemplo, KINGSTON USB), 
+podemos cambiarlo a un nombre que indique que el USB es booteable (por ejemplo, 
+Booteable USB), o poner el nombre del sistema operativo que queremos instalar con el USB 
+(Windows 10 Installer, Ubuntu Installer). En esta práctica, deberás poner boot y 
+seguidamente tu nombre: Ej. Boot Nira 
+o Iniciar: iniciamos el formateo y esperamos a que finalice. Una vez que ha finalizado, el dispositivo USB estará listo para almacenar 
+cualquier tipo de archivo. 
+
+3. Descarga una herramienta de creación de unidades USB booteables. 
+Para crear una unidad USB Booteable necesitamos disponer de una herramienta de 
+creación de unidades USB booteables. Se trata de un software creado especialmente para 
+configurar este tipo de unidades USB con el objetivo de poder arrancar un sistema 
+operativo o programa desde el mismo.  
+Aunque hay varias herramientas de creación de unidades USB booteables, en esta práctica 
+vamos a utilizar una de las más populares: RUFUS.  
+- Descarga la versión de Rufus adecuada: 
+* Tanto la versión Rufus Estándar como la versión Rufus Portable permiten crear unidades 
+booteables. La diferencia entre ambas versiones es la forma de instalación y ejecución. 
+- Rufus Estándar: Se instala en el ordenador. Hay que ejecutar el archivo de 
+instalación e instalarlo como cualquier otro programa. 
+- Rufus Portable: No requiere instalación. Se ejecuta directamente desde la descarga. 
+Es posible usarlo en una unidad USB y ejecutarlo desde cualquier ordenador sin 
+instalación.  
+- Instala la herramienta. 
+
+4. Crea la unidad USB booteable. 
+- Inserta de nuevo el dispositivo USB en caso de que lo hayas extraído. 
+- Accede a la interfaz de Rufus.  
+- Configuramos Rufus: 
+o Dispositivo: Seleccionamos la unidad USB que hemos formateado. Normalmente 
+detecta el dispositivo de manera automática. 
+o Elección de arranque: En este caso, seleccionamos Disco o Imagen ISO, ya que 
+vamos a instalar el S.O. Las opciones disponibles son: 
+§ No auto-ejecutable: la unidad USB no se configurará para iniciar el programa o 
+S.O. de manera automática en el arranque del sistema. Habrá que iniciar 
+manualmente, seleccionando la unidad USB como opción de arranque en la 
+BIOS o UEFI para posteriormente iniciar desde la unidad USB: 
+§ FreeDOS: sistema operativo de código abierto que permite ejecutar programas 
+DOS (programas de línea de comandos) en sistemas modernos.  
+§ Disco o imagen ISO (Elija por favor): Utilizamos esta opción cuando queremos 
+usar un archivo de imagen ISO como origen para crear una unidad USB 
+booteable.  
+o SELECCIONAR: Añadimos la imagen ISO del S.O. que queremos iniciar. En este caso, 
+seleccionamos la imagen ISO de Ubuntu.  
+o Opciones de formateo: Se añadirán estas opciones por defecto. Las dejamos tal 
+como aparecen. 
+o EMPEZAR: Una vez que hayamos configurado todo, hacemos click en el botón 
+EMPEZAR para realizar unidad USB booteable. El proceso puede tardará un poco, 
+ya que dependerá del tamaño de la ISO, la velocidad de escritura de tu unidad USB 
+y la propia configuración seleccionada en Rufus.  
+
+Cuando el proceso ha finalizado, ya disponemos de una unidad USB booteable. De esta 
+manera, podremos arrancar nuestro ordenador desde la unidad USB. Recuerda que para 
+ello es posible que debamos modificar la configuración de arranque de nuestra BIOS o 
+UEFI. 
+
+¿Qué podemos hacer con una unidad booteable? 
+- Instalar un S.O (configuración hecha en esta práctica) 
+- Ejecutar un S.O. en modo “live” directamente desde la unidad booteable, sin 
+tener que instalarlo en el disco duro. Ideal cuando queremos probar un sistema 
+operativo y realizar algunas tareas que no comprometan la configuración que ya 
+existe en nuestro ordenador. 
+- Ejecutar un programa portátil. Cuando no queremos instalar un programa, sino 
+utilizarlo de manera portátil en cualquier ordenador.  
+
+5. Prueba que tu unidad booteable funciona correctamente. 
+- Reinicia tu ordenador accediendo a tu BIOS o UEFI. Según el modelo, podrás 
+acceder presionando la tecla esc y seleccionando la BIOS o UEFI con la tecla F2 o 
+F10. 
+- Configura el gestor de arranque para que inicie mediante el usb. 
+- Reinicia el sistema. 
+- Aparecerá automáticamente la instalación de Ubuntu.  
+- Una vez dentro, nos dirá si queremos instalar o probar. Seleccionamos “Try 
+Ubuntu” para no instalar el Sistema Operativo en el sistema. 
+* En caso de que quisiéramos instalar el sistema operativo, conviene que realicemos un 
+respaldo de los datos. 
+
+Como puedes ver, con la unidad USB que acabas de configurar, podrás disponer del 
+sistema operativo Ubuntu de manera portátil para poder utilizarlo en cualquier equipo 
+informático.  
+
+Responde a las siguientes preguntas: 
+1.- ¿Cuál ha sido tu experiencia general al crear y utilizar la unidad booteable? 
+2.- ¿Has tenido algún problema con la práctica guiada? 
+3.- ¿Utilizarías este método en el futuro? Pon algunos ejemplos en los que usarías este 
+método y por qué.

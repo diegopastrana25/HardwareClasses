@@ -11,6 +11,7 @@ un PC en ambas páginas para así poder comparar los componentes y los precios.
 
 Los requerimientos para el PC son los siguientes: 
 - Instalación en pequeña empresa 
+
 - Carcasa: 
 Negra y discreta. 
 Altura máxima 450mm 

@@ -1,0 +1,23 @@
+Realizar un breve trabajo de investigación, respondiendo a las siguientes 
+preguntas: 
+
+1. Investiga sobre las distintas etapas que componen el ciclo de vida de un 
+software. Explica la importancia de cada una de estas etapas. 
+
+2. Analiza cómo se realiza la planificación a la hora de desarrollar un 
+software incluyendo la definición de objetivos, requisitos y plazos. 
+
+3. Investiga cómo se realiza la verificación y validación de un software, 
+incluyendo explicaciones sobre las pruebas de unidad, integración y 
+aceptación. 
+
+4. Analiza la importancia del ciclo de vida del software en la calidad del 
+producto final y en la satisfacción del cliente. 
+
+El trabajo deberá tener: 
+- Extensión mínima de 6 páginas, excluyendo portada, índice y bibliografía. 
+ 
+- Letra Arial 12, interlineado 1,15. 
+
+- Se penalizará notablemente no incluir fuentes bibliográficas variadas o 
+que estas no concuerden con los contenidos del trabajo.

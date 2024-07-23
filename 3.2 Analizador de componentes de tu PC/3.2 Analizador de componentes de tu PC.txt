@@ -1,0 +1,5 @@
+CPU-Z es un programa de detección de hardware para el sistema operativo Windows de Microsoft. Permite recopilar información del sistema. Conocer las características básicas de un PC es importante en el caso de que quieras actualizarlo para agregar más RAM o mejorar sus características en general. 
+
+- Descarga el programa y analiza tu PC.
+- Rellena las preguntas que se incluyen en el documento junto a capturas de pantalla de las pestañas del programa.
+- Sube el documento en formato .pdf, y un archivo .html descargado directamente desde el programa.

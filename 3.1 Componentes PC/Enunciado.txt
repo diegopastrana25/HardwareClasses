@@ -1,0 +1,50 @@
+Eres el técnico informático de una empresa de arquitectura. Uno de los arquitectos 
+necesita renovar su ordenador, ya que ha quedado obsoleto.  
+
+Nuestro jefe nos ha solicitado presupuesto de un PC con las condiciones necesarias 
+para aguantar el alto rendimiento que requieren los procesos de modelado 3D, el 
+BIM (Building information model), maquetación, etc.
+
+Para elegir los componentes del PC recurrimos a algunos simuladores online 
+disponbiles en páginas como pcspecialist o pccomponentes. Debemos configurar 
+un PC en ambas páginas para así poder comparar los componentes y los precios. 
+
+Los requerimientos para el PC son los siguientes: 
+- Instalación en pequeña empresa 
+- Carcasa: 
+Negra y discreta. 
+Altura máxima 450mm 
+Tener en cuenta los ventiladores. 
+Varios puertos USB. 
+
+- Procesador: 
+INTEL - - - - - - 
+Procesador de gama alta 
+Min. 6 núcleos 
+
+-Placa base: 
+MicroATX 
+
+-Memoria RAM: 
+Min. 32GB 
+
+-Tarjeta gráfica: 
+NVIDIA RTX 
+
+-Disco duro: 
+1xHDD 
+1xSSD 
+
+Sistema Operativo: 
+No será necesario. 
+
+Monitor: 2 unidades 
+Adjunta capturas de pantalla o incluye la hoja de descarga que se genera en la 
+propia página. 
+
+Justifica los componentes seleccionados y tu elección final. 
+
+La empresa comprará el PC que tú has elegido, por lo que debes tener especial 
+cuidado a la hora de configurarlo.  
+
+Envía el documento en formato PDF.

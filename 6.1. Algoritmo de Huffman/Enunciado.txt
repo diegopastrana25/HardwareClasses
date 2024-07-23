@@ -1,0 +1,6 @@
+Realiza la codificación de los siguientes mensajes mediante el algoritmo de 
+Huffman: 
+1. ABRACADABRA 
+2. MISSISIPI 
+3. HELLO WORLD 
+4. TO BE OR NOT TO BE

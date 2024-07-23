@@ -1,0 +1,49 @@
+A partir de la siguiente lista de averías indica la posible causa y solución: 
+
+1. El equipo tras funcionar durante un rato se apaga. Si se vuelve a encender 
+se apaga, pero dura encendido menos tiempo. 
+
+2.  Tras instalar un nuevo disco duro, la fuente tiene un comportamiento 
+anormal. En ocasiones se producen apagados y reseteos. 
+
+3.  Mensaje por pantalla al iniciar el equipo: "No video card found" o "No 
+monitor connected” 
+
+4. El equipo se apaga de repente. 
+
+5. Se ve un mensaje por pantalla al iniciar el equipo: "RAM Refresh Failure" 
+
+6.  Tenemos una BIOS AMI y al encender el computador escuchamos 2 
+pitidos. 
+
+7.  El equipo no se puede encender. 
+
+8. Mensaje por pantalla al iniciar el equipo: "Parity Error". 
+
+9. El ordenador no arranca, el ventilador de la fuente no funciona, no se 
+enciende ningún testigo luminoso y la pantalla no muestra imagen. 
+
+10. El ordenador no arranca, en la pantalla no aparece ninguna imagen, pero 
+funciona tanto el ventilador de la fuente como el testigo luminoso de encendido. 
+
+11. Se producen fallos en software.
+ 
+12. El arranque se detiene en el momento de empezar a cargar el sistema 
+operativo, y aparece un mensaje en pantalla de error de disco duro. (El disco 
+duro está bien). 
+
+13. El ordenador arranca perfectamente, pero el monitor se mantiene apagado. 
+
+14. Las imágenes presentan la falta de algún color o aparece un bandeado. 
+
+15. El bloque de teclado numérico no se activa automáticamente al arrancar el 
+sistema. 
+
+16. El BIOS se desconfigura cada vez que apagamos el equipo. 
+
+17.  La impresora imprime caracteres impropios 
+
+18. La imagen, aunque se ve perfectamente tiembla de forma total o en una 
+esquina. 
+
+19.  La temperatura de la CPU es de 75° C. 

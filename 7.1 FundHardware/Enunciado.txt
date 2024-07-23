@@ -1,0 +1,40 @@
+CICLO FORMATIVO DE GRADO SUPERIOR - TÉCNICO EN ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN REDES
+
+FUNDAMENTOS DEL HARDWARE
+
+Ejercicios
+
+1.- Elige la respuesta falsa….(2.- ptos)
+
+- Un disco puede tener varias particiones con varios sistemas de archivos.
+- Cuando hay un fallo en el sistema se pierde la información existente entre el último backup y el momento del fallo.
+- El comando TAR (Tape ARchiver) se utiliza para crear copias de seguridad en cinta de ahí su nombre.
+- Se puede hacer una réplica entera del sistema salvo el sector de arranque.
+
+2.- Elige la respuesta falsa….(2.- ptos)
+
+- La clonación ahorra mucha cantidad de tiempo es mucho más rápido restablecer una imagen que formatear.
+- Una partición es una división del disco duro que puede tener un Sistema de archivos independiente.
+- El sector de arranque tiene 512 Bytes.
+- Las particiones lógicas pueden albergar particiones extendidas.
+
+3.- Elige la respuesta falsa….(2.- ptos)
+
+- No puede existir más de una partición extendida en un disco.
+- Los discos ya vienen formateados a bajo nivel de fábrica y no es necesario formatearlos.
+- Los SS.OO. generalmente se instalan en particiones primarias.
+- El formateo a alto nivel se encarga de hacer un chequeo en profundidad de la superficie del disco.
+
+4.- Elige la respuesta falsa…. (2.- ptos)
+
+- El sector de arranque es el primer sector del disco (Cabeza1 Cilindro1 y Sector1).
+- El tiempo de recuperación de una imagen es relativamente corto.
+- Las particiones extendidas pueden albergar particiones lógicas.
+- Una partición es una división del disco duro que puede tener un sistema de archivos independientes.
+
+5.- Elige la respuesta falsa…. (2.- ptos)
+
+- El backup diferencia_copia solo los archivos que tienen el atributo de modificado_archivado. Una vez realizada la copia de seguridad ese atributo se desactiva.
+- Los discos ya vienen formateados a bajo nivel de fábrica y no es necesario reformatearlos.
+- Para que un disco duro se pueda utilizar y arrancar tiene que tener al menos una partición primaria activada y con un S.O. instalado en ella.
+- Las clonaciones no son operativas cuando lo que se desea es solamente copiar o salvaguardar ciertos archivos de nuestros sistemas.

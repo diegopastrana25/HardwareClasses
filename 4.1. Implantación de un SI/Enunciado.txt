@@ -1,0 +1,24 @@
+1.Explica qué es el control de acceso y por qué es importante para la seguridad física de 
+los sistemas informáticos. Describe algunas técnicas de control de acceso que se utilizan en 
+los CPD. 
+
+2.Describe las características principales de los sistemas de identificación biométrica y su 
+aplicación en la seguridad física de los sistemas informáticos. 
+
+3.¿Cuáles son las ventajas y desventajas de utilizar circuitos cerrados de televisión (CCTV) 
+en la seguridad física? ¿Qué medidas adicionales se pueden implementar para mejorar la 
+seguridad? 
+
+4.¿Qué es un SAI y para qué se utiliza? ¿Cuáles son las consideraciones importantes a tener 
+en cuenta al seleccionar y utilizar un SAI? 
+
+5.Describe las características principales de los racks y su aplicación en la organización y 
+seguridad física de los equipos. 
+
+6.¿Cuáles son las principales amenazas ambientales que pueden afectar a la seguridad de 
+los sistemas informáticos en un CPD? ¿Qué medidas se pueden implementar para 
+prevenirlas? 
+
+7.¿Cuál es el papel de la certificación y las normas de seguridad en la implementación de 
+un CPD seguro y confiable? Enumera algunas de las normas y estándares más importantes 
+en esta área.

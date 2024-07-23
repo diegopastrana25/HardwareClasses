@@ -1,0 +1,5 @@
+Redactar un pequeño documento respondiendo a las siguientes preguntas tratadas en clase:
+
+1. Investiga sobre los principales los sistemas de codificación de color: RGB y CMYK. ¿Cómo se emplean? ¿Para qué se emplean?
+
+2. ¿Cuáles crees que son las ventajas e inconvenientes de los formatos gráficos de mapa de bits frente a los formatos vectoriales? Investiga sobre los diferentes estándares en el mercado.

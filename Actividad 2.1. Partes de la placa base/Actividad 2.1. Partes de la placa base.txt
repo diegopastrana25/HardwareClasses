@@ -1,3 +1,0 @@
-Realiza una foto de la placa base del equipo y señaliza cada una de las partes principales que la componen. 
-
-Subir la imagen en formato .pdf

@@ -1,0 +1,32 @@
+1.- El objetivo de este ejercicio es mantener un Sistema libre de cualquier tipo de spyware, adware, troyanos y demás malware. Prueba las siguientes opciones de Seguridad del Sistema en Windows: (2.5.- pto)
+
+- Análisis completo
+- Análisis rápido
+- Borra los rastros no deseados dejados en el navegador de los sitios web
+- Configura y modifica el perfil de análisis
+- Puesta en cuarentena 
+
+2.- ¿Qué es la tecnología de discos S.M.A.R.T.? Explica los siguientes parámetros monitorizados en un disco S.M.A.R.T. (2.5.- pto)
+
+- Velocidad de los platos del disco
+- Sectores defectuosos
+- Errores de calibración
+- Errores de CRC
+- Distancias medias entre el cabezal y el plato
+- Temperatura del disco
+
+3.- ¿Qué algoritmo utilizan las siguientes utilidades de Software? (2.- pto)
+
+Winzip
+7zip
+Winrar
+
+4.- ¿Qué algoritmo es más eficiente el utilizado por 7Zip o WinZip y por qué? 
+(1.5.- pto)
+
+5.- Elige la respuesta falsa: (1.5.- pto)
+
+- El algoritmo JPG es un algoritmo de compresión con pérdida
+- El algoritmo Huffman es el utilizado en el famoso MP3
+- El formato WMA o Windows Media Audio es un formato de compresión con pérdida desarrollado por Microsoft
+- Los archivos .wma contienen solo audio WMA y los archivos .wmv contienen video WMV. Los archivos .asf pueden contener ambos
